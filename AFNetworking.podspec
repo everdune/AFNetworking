@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name     = 'EDMAFNetworking'
+  s.name     = 'AFNetworking'
   s.version  = '2.4.1'
   s.license  = 'MIT'
   s.summary  = 'A delightful iOS and OS X networking framework.'
